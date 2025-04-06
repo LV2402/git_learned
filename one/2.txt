@@ -1,0 +1,11 @@
+this is 2nd file from folder one for git course
+adding more in 2.txt
+
+
+add another marketing message section
+
+add footer note
+
+2024 is coming
+
+fix message for pink mode

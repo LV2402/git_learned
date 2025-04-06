@@ -1,0 +1,6 @@
+this is from folder one for git course
+add more content to 1.txt
+hi
+
+2025 coming
+ hi
